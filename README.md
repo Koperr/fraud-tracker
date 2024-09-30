@@ -1,5 +1,5 @@
-# PROJECT TITLE
-DontBeAped
+# DontBeAped - Hackathon 2024 project
+### work in progress
 
 # Team Name
 Apes together strong
